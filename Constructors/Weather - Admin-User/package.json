@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "inquirer": "^5.2.0",
+    "moment": "^2.22.1",
+    "weather-js": "^2.0.0"
+  }
+}
